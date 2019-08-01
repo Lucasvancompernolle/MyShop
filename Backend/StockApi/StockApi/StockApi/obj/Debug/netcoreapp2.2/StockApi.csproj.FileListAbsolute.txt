@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\bin\Debug\netcoreapp2.2\StockApi.deps.json
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\bin\Debug\netcoreapp2.2\StockApi.runtimeconfig.json
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\bin\Debug\netcoreapp2.2\StockApi.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\bin\Debug\netcoreapp2.2\StockApi.dll
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.RazorAssemblyInfo.cache
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.RazorAssemblyInfo.cs
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.AssemblyInfo.cs
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\bin\Debug\netcoreapp2.2\StockApi.pdb
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.dll
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.pdb
+C:\Users\lucas\Desktop\testangular\Backend\StockApi\StockApi\StockApi\obj\Debug\netcoreapp2.2\StockApi.csprojAssemblyReference.cache

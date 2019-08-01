@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.RazorAssemblyInfo.cache
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.RazorAssemblyInfo.cs
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.AssemblyInfo.cs
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\bin\Debug\netcoreapp2.2\InventoryStock.deps.json
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\bin\Debug\netcoreapp2.2\InventoryStock.runtimeconfig.json
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\bin\Debug\netcoreapp2.2\InventoryStock.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\bin\Debug\netcoreapp2.2\InventoryStock.dll
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\bin\Debug\netcoreapp2.2\InventoryStock.pdb
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.dll
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.pdb
+C:\Users\lucas\Desktop\testangular\Backend\InventoryStock\InventoryStock\obj\Debug\netcoreapp2.2\InventoryStock.csprojAssemblyReference.cache
